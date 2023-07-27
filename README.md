@@ -74,6 +74,6 @@ HTML5/CSS3, Pure Js, BEM Methodology, SCSS Preprocessor, FLEX and GRID Framework
 
 ---
 
-### ⚙️ GitHub Statistics:
+### 📊 GitHub Statistics:
 
 <img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codding-sites&layout=compact&theme=vision-friendly-dark" />
