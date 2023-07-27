@@ -1,15 +1,15 @@
 
-# 🙋 Hi! My name is David!
+# 👋 Hi! My name is David!
 
 ---
 
-## :man_technologist: Who Am I:
+## 🎓 Who Am I:
 
 I specialize in Web Programming. The following technologies are present in the arsenal: HTML5 / CSS3, Pure JS, BEM Methodology, SCSS Preprocessor, GULP Builder, Responsive
 
 ---
 
-### :mailbox: Contact me:
+### 📭 Contact me:
 
 - Email: prog820305@gmail.com
 - Phone number: +380 97 971 9616
@@ -18,10 +18,10 @@ I specialize in Web Programming. The following technologies are present in the a
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hello+There!;Turn+Your+Dreams+Into+Achievements!...;Nice+to+Meet+You!&font=Fira%20Code&center=true&width=800&height=50&duration=3000&pause=500&font-weight=700&fons-size=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=🙈+Hello+There!;Turn+Your+Dreams+Into+Achievements!...;Nice+to+Meet+You!&font=Fira%20Code&center=true&width=800&height=50&duration=3000&pause=500&font-weight=700&fons-size=50">
 </p>
 
-### :seedling: So what will your project consist of:
+### 🌱 So what will your project consist of:
 
 1) Responsive, Crossbrowser, Valid Layout with Clean Code!
 
@@ -33,7 +33,7 @@ I specialize in Web Programming. The following technologies are present in the a
 
 ---
 
-## :zap: Let's run through the technologies:
+## ⚡️ Let's run through the technologies:
 
 HTML5/CSS3, Pure Js, BEM Methodology, SCSS Preprocessor, FLEX and GRID Frameworks, GULP Builder
 
@@ -52,7 +52,7 @@ HTML5/CSS3, Pure Js, BEM Methodology, SCSS Preprocessor, FLEX and GRID Framework
 
 ---
 
-### 📈 Responsibility and Positive Qualities:
+### 🎯 Responsibility and Positive Qualities:
 
 - Ready to start your work - Right Now!
 
@@ -66,7 +66,7 @@ HTML5/CSS3, Pure Js, BEM Methodology, SCSS Preprocessor, FLEX and GRID Framework
 
 ---
 
-### :mailbox: Contact me:
+### 📭 Contact me:
 
 - Email: prog820305@gmail.com
 - Phone number: +380 97 971 9616
