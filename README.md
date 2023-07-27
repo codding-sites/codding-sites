@@ -15,7 +15,7 @@ I specialize in Web Programming. The following technologies are present in the a
 - Email: prog820305@gmail.com
 - Phone number: +380 97 971 9616
 - Telegram: [https://t.me/codding_sites](https://t.me/codding_sites)
-- Linkedin: [https://www.linkedin](https://www.linkedin.com/in/%D0%B4%D0%B0%D0%B2%D0%B8%D0%B4-%D0%B0%D0%BD%D0%BF%D0%B8%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2-b46748285/)
+- Linkedin: [https://www.linkedin.com/in/codding-sites/](https://www.linkedin.com/in/codding-sites/)
 
 ---
 
@@ -73,7 +73,7 @@ HTML5/CSS3, Pure Js, BEM Methodology, SCSS Preprocessor, FLEX and GRID Framework
 - Email: prog820305@gmail.com
 - Phone number: +380 97 971 9616
 - Telegram: [https://t.me/codding_sites](https://t.me/codding_sites)
-- Linkedin: Linkedin: [https://www.linkedin](https://www.linkedin.com/in/%D0%B4%D0%B0%D0%B2%D0%B8%D0%B4-%D0%B0%D0%BD%D0%BF%D0%B8%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2-b46748285/)
+- Linkedin: [https://www.linkedin.com/in/codding-sites/](https://www.linkedin.com/in/codding-sites/)
 
 ---
 
