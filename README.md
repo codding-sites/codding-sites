@@ -18,7 +18,7 @@ I specialize in Web Programming. The following technologies are present in the a
 ---
 
 <h3 align="center">
-    (https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 </h3>
 
 ### :seedling: So what will your project consist of:
