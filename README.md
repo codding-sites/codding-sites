@@ -3,7 +3,7 @@
 
 ---
 
-## :man_technologist Who Am I:
+## :man_technologist: Who Am I:
 
 I specialize in Web Programming. The following technologies are present in the arsenal: HTML5 / CSS3, Pure JS, BEM Methodology, SCSS Preprocessor, GULP Builder, Responsive
 
@@ -13,12 +13,12 @@ I specialize in Web Programming. The following technologies are present in the a
 
 - Email: prog820305@gmail.com
 - Phone number: +380 97 971 9616
-- Telegram: [[Telegram](https://t.me/codding_sites)](https://t.me/codding_sites)
+- Telegram: https://t.me/codding_sites
 
 ---
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Turn Dreams into Reality!....;Nice+to+meet+you!&center=true&size=30">
 </p>
 
 ### :seedling: So what will your project consist of:
@@ -63,13 +63,13 @@ HTML5/CSS3, Pure Js, BEM Methodology, SCSS Preprocessor, FLEX and GRID Framework
 
 ### 💻 Languages and Tools:
 <div>
-  [<img alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />][webdevplaylist]
+  <img alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="40" height="40" />
-  [<img alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />]
+  <img alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
 </div>
 
 ---
