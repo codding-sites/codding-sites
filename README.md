@@ -1,27 +1,58 @@
 <!--⏱🏆📌📈🕐📊😤📋📭🌱⚡️🎯🔧😇✨👋🙈🎓💻💗-->
 
-# 👋 Hi! My name is David!
+# 👋 Привет! Меня зовут Давид!
 
 ---
 
 ## 🎓 Who Am I:
 
-I specialize in Web Programming. The following technologies are present in the arsenal: HTML5 / CSS3, Pure JS, BEM Methodology, SCSS Preprocessor, GULP Builder, Responsive
-
----
-
-### 📭 Contact me:
-
-- Email: prog820305@gmail.com
-- Phone number: +380 97 971 9616
-- Telegram: [https://t.me/codding_sites](https://t.me/codding_sites)
-- Linkedin: [https://www.linkedin.com/in/codding-sites/](https://www.linkedin.com/in/codding-sites/)
+Специализируюсь на Веб-Програмировании. В арсенале присутствуют следующие технологии: HTML5/CSS3, Чистый JS, Методология БЄМ, Препроцессор SCSS, Сборщик GULP, Адаптив (Responsive)
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=🙈+Hello+There!;✨+Turn+Your+Dreams+Into+Achievements!...;💗+Nice+to+Meet+You!&font=Fira%20Code&center=true&width=800&height=50&duration=3000&pause=500&font-weight=700&fons-size=50">
 </p>
+
+---
+
+###📈 Вместе со Мной, Вы Преобретаете:
+
+####1)🕐 Время! 
+Уверен, что Вы немало времени тратите на написание тех-задания. На основе своего опыта, я помогу Вам улучшить работу и дальнейшее использование Вашего Проекта! (Говорят: "Время - Деньги", но Время стоит намного дороже)
+
+####2)📊 Качество и Гарантия!
+Полность обязуюсь отвечать за Качесто и Гарантию выполнения работы с найлучшим результатом и в Срок. (Ведь кому нравится Быстро, но Плохо?)
+
+####3)😤 Спокойствие!
+Ваши доработки и пожелания не структурного характера уже включены в стоимость работ! Не волнуйтесь на счёт пропущеных Вами маленьких деталей в дизайне, они будут внесены в работу по Вашей просьбе без лишних вопросов. (Бытует мнение: "Лучший Заказчит тот, который Спокоен!")
+
+###📊 Гарантия на верстку:
+В течение недели после передачи архива с готовой версткой я бесплатно и сразу исправляю свои недоразумения которые могли быть пропущены при приеме работы и замечены позже.
+
+---
+
+###🔧 Как будет идти рабочий процесс:
+Предварительная Заявка => Изучение техзадания => Окончательная заявка => Безопасная Сделка (Либо Ваш Вариант) => Работа => Оплата => Ваши Исходники => Отзыв
+
+###😇 Со Мной удобно работать и мне важно что бы Клиент Остался Доволен!
+
+---
+
+###📋 Моё Портфолио:
+
+- Портфолио: https://www.weblancer.net/users/codding-sites/#portfolio
+- Мой Профиль на Бирже: https://www.weblancer.net/users/codding-sites/
+- Профиль на Linkedin: https://www.linkedin.com/in/codding-sites/
+
+
+### 📭 Contact me:
+
+- Email: prog820305@gmail.com
+- Phone number: +380 97 971 9616
+- Telegram: [https://t.me/codding_sites](https://t.me/codding_sites)
+  
+---
 
 ### 🌱 So what will your project consist of:
 
@@ -37,9 +68,7 @@ I specialize in Web Programming. The following technologies are present in the a
 
 ## ⚡️ Let's run through the technologies:
 
-HTML5/CSS3, Pure Js, BEM Methodology, SCSS Preprocessor, FLEX and GRID Frameworks, GULP Builder
-
----
+- HTML5/CSS3, Pure Js, BEM Methodology, SCSS Preprocessor, FLEX and GRID Frameworks, GULP Builder
 
 ### 💻 Languages and Tools:
 <div>
@@ -68,12 +97,18 @@ HTML5/CSS3, Pure Js, BEM Methodology, SCSS Preprocessor, FLEX and GRID Framework
 
 ---
 
+###📋 Моё Портфолио:
+
+- Портфолио: https://www.weblancer.net/users/codding-sites/#portfolio
+- Мой Профиль на Бирже: https://www.weblancer.net/users/codding-sites/
+- Профиль на Linkedin: https://www.linkedin.com/in/codding-sites/
+  
+
 ### 📭 Contact me:
 
 - Email: prog820305@gmail.com
 - Phone number: +380 97 971 9616
 - Telegram: [https://t.me/codding_sites](https://t.me/codding_sites)
-- Linkedin: [https://www.linkedin.com/in/codding-sites/](https://www.linkedin.com/in/codding-sites/)
 
 ---
 
