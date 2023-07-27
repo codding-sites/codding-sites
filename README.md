@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🙈+Hello+There!;✨+Turn+Your+Dreams+Into+Achievements!...;💗+Nice+to+Meet+You!&font=Fira%20Code&center=true&width=800&height=50&duration=3000&pause=500&font-weight=700&fons-size=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=🙈+Эй+Там!;✨+Пора+Превращать+Мечты+В+Достижения!...;💗+Рад+Видеть+Тебя+Здесь!&font=Fira%20Code&center=true&width=800&height=50&duration=3000&pause=500&font-weight=700&fons-size=50">
 </p>
 
 ---
