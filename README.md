@@ -19,7 +19,7 @@ I specialize in Web Programming. The following technologies are present in the a
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?llines=Hello,+There!+👋;Turn Dreams into Reality!....;Nice+to+meet+you!)](https://git.io/typing-svg)
+    (https://readme-typing-svg.demolab.com/?llines=Hello,+There!+👋;Turn Dreams into Reality!....;Nice+to+meet+you!)](https://git.io/typing-svg)
    </a>
 </p>
 
