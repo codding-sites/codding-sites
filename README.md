@@ -18,10 +18,8 @@ I specialize in Web Programming. The following technologies are present in the a
 ---
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Turn Dreams into Reality!....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+    (https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+</h3>
 
 ### :seedling: So what will your project consist of:
 
