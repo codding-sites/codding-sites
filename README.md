@@ -44,7 +44,7 @@
 - Профиль на Linkedin: https://www.linkedin.com/in/codding-sites/
 
 
-### 📭 Contact me:
+### 📭 Связь со Мной:
 
 - Email: prog820305@gmail.com
 - Phone number: +380 97 971 9616
@@ -52,7 +52,7 @@
   
 ---
 
-### 🌱 So what will your project consist of:
+### 🌱 Так из чего же будет состоять Ваш проект:
 
 1) Responsive, Crossbrowser, Valid Layout with Clean Code!
 
@@ -64,11 +64,11 @@
 
 ---
 
-## ⚡️ Let's run through the technologies:
+## ⚡️ Так из чего же будет состоять Ваш проект:
 
 - HTML5/CSS3, Pure Js, BEM Methodology, SCSS Preprocessor, FLEX and GRID Frameworks, GULP Builder
 
-### 💻 Languages and Tools:
+### 💻 Иснструменты:
 <div>
   <img alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -81,7 +81,7 @@
 
 ---
 
-### 🎯 Responsibility and Positive Qualities:
+### 🎯 Ответственность и Положительные Качества:
 
 - Ready to start your work - Right Now!
 
@@ -102,7 +102,7 @@
 - Профиль на Linkedin: https://www.linkedin.com/in/codding-sites/
   
 
-### 📭 Contact me:
+### 📭 Связь со Мной:
 
 - Email: prog820305@gmail.com
 - Phone number: +380 97 971 9616
@@ -110,6 +110,6 @@
 
 ---
 
-### 📊 GitHub Statistics:
+### 📊 Статистика GitHub:
 
 <img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codding-sites&layout=compact&theme=vision-friendly-dark" />
