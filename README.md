@@ -18,7 +18,7 @@ I specialize in Web Programming. The following technologies are present in the a
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hello+There!;Turn+Нour+Dreams+Into+Achievements!....;Nice+to+Meet+You!&font=Fira%20Code&center=true&width=800&height=50&duration=4000&pause=1000&size=30">
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hello+There!;Turn+Нour+Dreams+Into+Achievements!....;Nice+to+Meet+You!&font=Fira%20Code&center=true&width=800&height=50&duration=3000&pause=800">
 </p>
 
 ### :seedling: So what will your project consist of:
