@@ -9,7 +9,7 @@ I specialize in web programming. The following technologies are in my arsenal: H
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🙈+Hey+There!;✨+It's+Time+To+Turn+Dreams+Into+Achievements!...;💗+Nice+To+Meet+You.!&font=Fira%20Code&center=true&width=800&height=50&duration=3000&pause=500&font-weight=700&fons-size=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=🙈+Hey+There!;✨+It's+Time+To+Turn+Dreams+Into+Achievements!...;💗+Nice+To+Meet+You!&font=Fira%20Code&center=true&width=800&height=50&duration=3000&pause=500&font-weight=700&fons-size=50">
 </p>
 
 ---
