@@ -1,50 +1,50 @@
 <!--⏱🏆📌📈🕐📊😤📋📭🌱⚡️🎯🔧😇✨👋🙈🎓💻💗-->
 
-# 👋 Привет! Меня зовут Давид!
+# 👋 Hi! My name is David!
 
-## 🎓 Чем я занимаюсь:
+## 🎓 What I do:
 
-Специализируюсь на Веб-Програмировании. В арсенале присутствуют следующие технологии: HTML5/CSS3, Чистый JS, Методология БЄМ, Препроцессор SCSS, Сборщик GULP, Адаптив (Responsive)
+I specialize in web programming. The following technologies are in my arsenal: HTML5/CSS3, Pure JS, BЄM methodology, SCSS preprocessor, GULP builder, Adaptive (Responsive).
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🙈+Эй+Там!;✨+Пора+Превращать+Мечты+В+Достижения!...;💗+Рад+Видеть+Тебя+Здесь!&font=Fira%20Code&center=true&width=800&height=50&duration=3000&pause=500&font-weight=700&fons-size=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=🙈+Hey+There!;✨+It's+Time+To+Turn+Dreams+Into+Achievements!...;💗+Nice+To+Meet+You.!&font=Fira%20Code&center=true&width=800&height=50&duration=3000&pause=500&font-weight=700&fons-size=50">
 </p>
 
 ---
 
-### 📈 Вместе со Мной, Вы Преобретаете:
+### 📈 Together with me, You will acquire:
 
-#### 1)🕐 Время! 
-Уверен, что Вы немало времени тратите на написание тех-задания. На основе своего опыта, я помогу Вам улучшить работу и дальнейшее использование Вашего Проекта! (Говорят: "Время - Деньги", но Время стоит намного дороже)
+#### 1)🕐 Time! 
+I am sure that you spend a lot of time on writing technical requirements. Based on my experience, I will help you to improve the performance and further use of your Project!
 
-#### 2)📊 Качество и Гарантия!
-Полность обязуюсь отвечать за Качесто и Гарантию выполнения работы с найлучшим результатом и в Срок. (Ведь кому нравится Быстро, но Плохо?)
+#### 2)📊 Quality and Warranty!
+I fully undertake to be responsible for the Quality and Guarantee of work with the best result and in time.
 
-#### 3)😤 Спокойствие!
-Ваши доработки и пожелания не структурного характера уже включены в стоимость работ! Не волнуйтесь на счёт пропущеных Вами маленьких деталей в дизайне, они будут внесены в работу по Вашей просьбе без лишних вопросов. (Бытует мнение: "Лучший Заказчит тот, который Спокоен!")
+#### 3)😤 Serenity!
+Your modifications and wishes of a non-structural nature are already included in the price of the work! Don't worry about the small details you missed in the design, they will be included in the work at your request without unnecessary questions.
 
-### 📊 Гарантия на верстку: <br>
-В течение недели после передачи архива с готовой версткой я бесплатно и сразу исправляю свои недоразумения которые могли быть пропущены при приеме работы и замечены позже.
-
----
-
-### 🔧 Как будет идти рабочий процесс:
-Предварительная Заявка => Изучение техзадания => Окончательная заявка => Безопасная Сделка (Либо Ваш Вариант) => Работа => Оплата => Ваши Исходники => Отзыв
-
-### 😇 Со Мной удобно работать и мне важно что бы Клиент Остался Доволен!
+### 📊 Guarantee for layout:
+Within a week after handing over the archive with the finished layout, I free of charge and immediately correct any misunderstandings that may have been missed when accepting the work and noticed later.
 
 ---
 
-### 📋 Моё Портфолио:
+### 🔧 How the workflow will proceed:
+Pre-application => Study of Terms of Reference => Final Application => Safe Deal (Or Your Option) => Work => Payment => Your Sources => Feedback.
 
-- Портфолио: https://www.weblancer.net/users/codding-sites/#portfolio
-- Мой Профиль на Бирже: https://www.weblancer.net/users/codding-sites/
-- Профиль на Linkedin: https://www.linkedin.com/in/codding-sites/
+### 😇 It is convenient to work with me and it is important to me that the client is satisfied!
+
+---
+
+### 📋 My Portfolio:
+
+- Portfolio: https://www.weblancer.net/users/codding-sites/#portfolio
+- My profile on the stock exchange: https://www.weblancer.net/users/codding-sites/
+- Linkedin profile: https://www.linkedin.com/in/codding-sites/
 
 
-### 📭 Связь со Мной:
+### 📭 Connecting with me:
 
 - Email: prog820305@gmail.com
 - Phone number: +380 97 971 9616
@@ -52,23 +52,23 @@
   
 ---
 
-### 🌱 Так из чего же будет состоять Ваш проект:
+### 🌱 So what will your project consist of:
 
-1) Адаптивная, Кроссбраузерная, Валидная Вёрстка с Чистым Кодом!
+1) Adaptive, Cross-browser, Valid layout with Clean Code!
 
-2) Адаптив, Отзывчивость (Responsive), Гибкость, Резиновость!
+2) Adaptive, Responsive, Flexible, Rubberized!
 
-3) Приятные и Умесные CSS/JS Анимации!
+3) Nice and Smart CSS/JS Animations!
 
-4) Нестандартные решения тех или инных задач под Ваш Проект!
+4) Non-standard solutions for your projectNon-standard solutions for your project!
 
 ---
 
-## ⚡️ Пробежимся по Технологиям:
+## ⚡️ Let's run through the technology:
 
 - HTML5/CSS3, Pure Js, BEM Methodology, SCSS Preprocessor, FLEX and GRID Frameworks, GULP Builder
 
-### 💻 Иснструменты:
+### 💻 Tools:
 <div>
   <img alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -81,28 +81,28 @@
 
 ---
 
-### 🎯 Ответственность и Положительные Качества:
+### 🎯 Responsibility and Positive Qualities:
 
-- Готов приступить к Вашей работе - Прямо Сейчас!
+- Ready to start your job - Right now!
 
-- Всегда Довожу свою работу до Конца!
+- I always see my work through to the end!
 
-- Сдача Вашего проекта в Срок!
+- Delivery of your project on Time!
 
-- Подджерживаю процесс создания проекта. Предлагаю свою точку зрения для Улучшения Работы!
+- I support the process of project creation. Offer my point of view to improve the work!
 
-- Всегда на Связи!
+- Always on the phone!
 
 ---
 
-### 📋 Моё Портфолио:
+### 📋 My Portfolio:
 
-- Портфолио: https://www.weblancer.net/users/codding-sites/#portfolio
-- Мой Профиль на Бирже: https://www.weblancer.net/users/codding-sites/
-- Профиль на Linkedin: https://www.linkedin.com/in/codding-sites/
+- Portfolio: https://www.weblancer.net/users/codding-sites/#portfolio
+- My profile on the stock exchange: https://www.weblancer.net/users/codding-sites/
+- Linkedin profile: https://www.linkedin.com/in/codding-sites/
   
 
-### 📭 Связь со Мной:
+### 📭 Connecting with me:
 
 - Email: prog820305@gmail.com
 - Phone number: +380 97 971 9616
@@ -110,6 +110,6 @@
 
 ---
 
-### 📊 Статистика GitHub:
+### 📊 Statistics GitHub:
 
 <img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codding-sites&layout=compact&theme=vision-friendly-dark" />
