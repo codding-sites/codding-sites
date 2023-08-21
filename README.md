@@ -4,7 +4,7 @@
 
 ## 🎓 What I do:
 
-I specialize in web programming. The following technologies are in my arsenal: HTML5/CSS3, Pure JS, BЄM methodology, SCSS preprocessor, GULP builder, Adaptive (Responsive).
+I specialize in web programming. The following technologies are in my arsenal: HTML5/CSS3, Pure JS, BEM methodology, SCSS preprocessor, GULP builder, Adaptive (Responsive).
 
 ---
 
