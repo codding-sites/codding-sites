@@ -47,7 +47,6 @@ Pre-application => Study of Terms of Reference => Final Application => Safe Deal
 ### 📭 Connecting with me:
 
 - Email: prog820305@gmail.com
-- Phone number: +380 97 971 9616
 - Telegram: [https://t.me/codding_sites](https://t.me/codding_sites)
   
 ---
@@ -105,7 +104,6 @@ Pre-application => Study of Terms of Reference => Final Application => Safe Deal
 ### 📭 Connecting with me:
 
 - Email: prog820305@gmail.com
-- Phone number: +380 97 971 9616
 - Telegram: [https://t.me/codding_sites](https://t.me/codding_sites)
 
 ---
